@@ -1,0 +1,31 @@
+commune,prix_total,surface,acces_voiture,distance_rn,batissable,distance_jirama,type_papier
+Ivato,220000000,2000,1,200,1,100,titre_borne
+Ivato,150000000,1500,1,300,1,150,titre_borne
+Ambohidratrimo,300000000,2500,1,100,1,80,titre_borne
+Ambohidratrimo,180000000,1800,0,500,1,200,karatany
+Alasora,120000000,1200,1,150,1,50,titre_borne
+Alasora,90000000,1000,0,400,0,300,karatany
+Itaosy,80000000,1000,1,200,1,100,titre_borne
+Itaosy,60000000,800,0,600,0,250,fifanolorana
+Talatamaty,200000000,1600,1,100,1,60,titre_borne
+Talatamaty,170000000,1500,1,120,1,80,titre_borne
+Analamahitsy,350000000,1000,1,50,1,30,titre_borne
+Analamahitsy,280000000,900,1,80,1,40,titre_borne
+Ivandry,500000000,1200,1,30,1,20,titre_borne
+Ivandry,450000000,1000,1,50,1,30,titre_borne
+Ambatobe,400000000,1100,1,70,1,40,titre_borne
+Ambatobe,380000000,1000,1,100,1,60,titre_borne
+Ambohimangakely,150000000,2000,1,300,1,150,karatany
+Ambohimangakely,130000000,1800,0,500,0,200,karatany
+Ankadikely,100000000,1500,1,400,1,120,fifanolorana
+Ankadikely,90000000,1400,0,600,0,250,fifanolorana
+Sabotsy Namehana,125000000,1000,1,200,1,100,titre_borne
+Sabotsy Namehana,110000000,900,0,300,1,150,karatany
+Ambohimalaza,180000000,2000,1,150,1,80,titre_borne
+Ambohimalaza,160000000,1800,1,200,1,100,titre_borne
+Manakambahiny,170000000,300,1,50,1,20,titre_borne
+Manakambahiny,140000000,250,1,80,1,30,titre_borne
+Andoharanofotsy,220000000,1500,1,100,1,70,titre_borne
+Andoharanofotsy,200000000,1400,1,150,1,90,titre_borne
+Ambohijanaka,95000000,1200,0,400,0,200,karatany
+Ambohijanaka,85000000,1100,0,500,0,250,karatany
